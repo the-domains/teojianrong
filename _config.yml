@@ -6,10 +6,10 @@ color:
     - '#8060B0'
     - '#8038A8'
     - '#A868B8'
-  brandStrength: 0.869586661093956
-  lightness: 0.9747391758019571
-  rhythmicContrast: 0.2076534637119155
-  saturation: 0.8483105583371913
+  brandStrength: 0
+  lightness: 0
+  rhythmicContrast: 0
+  saturation: 0
 cta: {}
 layout_spectrum: 0.293918
 name: teojianrong
